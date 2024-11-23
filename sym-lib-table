@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name led_rgba)(type Legacy)(uri ${KIPRJMOD}/led_rgba.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "led_rgba")(type "Legacy")(uri "${KIPRJMOD}/led_rgba.lib")(options "")(descr ""))
+  (lib (name "motivational board-rescue")(type "KiCad")(uri "${KIPRJMOD}/motivational board-rescue.kicad_sym")(options "")(descr ""))
 )
