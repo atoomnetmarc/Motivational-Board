@@ -25,4 +25,12 @@ Apply between 2.5V and 5V to J1 to power LEDs.
 
 ![](Motivational%20Board.jpg)
 
+# 3d printed frame
+
+You could [3d print](/frame/) a frame for it.
+
+![](/frame/frame-render.png)
+
+The bottom frame segment has some space for a custom power supply and a switch.
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
